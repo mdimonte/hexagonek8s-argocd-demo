@@ -5,4 +5,4 @@ metadata:
   name: my-configmap
 data:
   data: my-value
-
+  ecole: hexagone
